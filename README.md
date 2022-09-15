@@ -19,4 +19,3 @@
   <!--<img align="center" alt="TJ-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />-->
   <img align="center" alt="TJ-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="TJ-GIT" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="TJ-Postman" height="30" width="40" src="https://symbols.getvecta.com/stencil_92/21_postman-icon.c79f00c910.svg">
