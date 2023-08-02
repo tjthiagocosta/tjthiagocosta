@@ -7,5 +7,5 @@
   
 <div align="center" style="display: inline_block"><br>
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,ts,tailwind,nextjs,react,nodejs,mongodb,docker,vscode,git,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,tailwind,nextjs,react,nodejs,mongodb,docker,vscode,git,py)](https://skillicons.dev)
 
