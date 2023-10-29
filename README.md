@@ -1,4 +1,4 @@
-🤝 Hi! I'm Thiago, a seasoned Fullstack Engineer dedicated to building scalable and efficient web architectures.
+🤝 Hi! I'm Thiago, a Full-stack Engineer dedicated to building scalable and efficient web architectures.
 
 🔍 Technical Depth: With a comprehensive grasp over both frontend and backend paradigms, I ensure that the solutions I engineer are not only functionally robust but also user-centric.
 
