@@ -1,10 +1,17 @@
-🤝 Hi! I'm Thiago, a Full-stack Engineer dedicated to building scalable and efficient web architectures.
+🤝 Hi! I'm Thiago, a passionate Software Engineer specialized in Full Stack development with expertise in React, Node, and Python technologies. Eager to tackle new technological challenges and contribute to innovative solutions.
 
-🔍 Technical Depth: With a comprehensive grasp over both frontend and backend paradigms, I ensure that the solutions I engineer are not only functionally robust but also user-centric.
+🛠️ Skills:
+Front-End: React, Vue, TypeScript, HTML, CSS, JavaScript...
+Back-End: Node, Python, Django, PostgreSQL, MongoDB, Docker, Jest, pytest...
 
-✅ Commitment to Excellence: My adherence to rigorous unit testing and best coding practices underscores my commitment to delivering reliable and maintainable software.
+📚 Currently Exploring:
+Tailwind CSS
+NextJS
+AWS Cloud
+Kubernetes
 
-🔗 Collaboration & Growth: I believe in the synergy of teamwork and continuous learning. If you're seeking a diligent engineer who values innovation and excellence, I'd be eager to explore how I can contribute to your team's success.
+🤝 Let's Connect:
+Excited to explore new opportunities and engage in knowledge exchange. Feel free to reach out to connect and share experiences.
   
 <div align="center" style="display: inline_block"><br>
 
