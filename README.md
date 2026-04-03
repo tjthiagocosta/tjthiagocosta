@@ -4,6 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tjthiagocosta&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/tjthiagocosta)
 
+### 🚀 Founder @ [nouva.sh](https://nouva.sh)
 ### 👨‍💻 Head of Systems @ Saenz Global
 
 I'm a developer based in **Brazil 🇧🇷** specialized in building complex, data-intensive systems.
