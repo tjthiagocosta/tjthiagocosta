@@ -4,7 +4,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tjthiagocosta&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/tjthiagocosta)
 
-### 🚀 Founder @ [nouva.sh](https://nouva.sh)
 ### 👨‍💻 Head of Systems @ Saenz Global
 
 I'm a developer based in **Brazil 🇧🇷** specialized in building complex, data-intensive systems.
@@ -22,19 +21,6 @@ Here's what I've contributed to so far — more to come throughout the year:
 | Project | Description |
 |---------|-------------|
 | [Turso](https://github.com/tursodatabase/turso) | A ground-up rewrite of SQLite in Rust, featuring native async I/O, vector search, and more |
-
----
-
-### 📊 GitHub Stats
-
-<a href="https://github.com/tjthiagocosta">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjthiagocosta&theme=dark&hide_border=true" alt="Thiago's Streak" />
-</a>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=tjthiagocosta&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Thiago's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjthiagocosta&layout=compact&langs_count=8&theme=dark&hide_border=true&count_private=true" height="150" alt="Thiago's Top Languages" />
 
 ---
 
